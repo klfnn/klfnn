@@ -10,5 +10,6 @@
     sandbox="allow-scripts"
     src="https://widgets.vendicated.dev/user?id=888619812677386260&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&"
 ></iframe>
+
 - 📧 Mail: [klfn@seishun.work](mailto:klfn@seishun.work)
 - ☎️ Discord: [@klfn](https://discord.com/user/888619812677386260)
